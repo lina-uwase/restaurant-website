@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import logo from '../img/logo.png'
-import { Fade } from 'react-reveal'
+// import { Fade } from 'react-reveal'
 
 export default function NavBar(props) {
 
