@@ -4,7 +4,7 @@ import NavBar from '../../components/NavBar';
 import OverviewCard from '../../components/overviewCard';
 import profileImg from '../../img/test.png'
 import {Chart as ChartJS,CategoryScale,LinearScale,PointElement,LineElement,Title,Tooltip,Legend,} from 'chart.js'
-import {Line,Bar} from 'react-chartjs-2'
+// import {Line,Bar} from 'react-chartjs-2'
 import Pcard from '../../components/pCard';
 import rest from '../../img/rest.jpg'
 import {Link } from 'react-router-dom'

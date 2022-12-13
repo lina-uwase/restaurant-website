@@ -6,7 +6,7 @@ export default function NavBar(props) {
 
     const active  = "fill-white text-white bg-[#46A80F]"
 
-    const [showNav, setShowNav] = useState(true)
+    // const [showNav, setShowNav] = useState(true)
   return (
     <nav className='h-full bg-[#F3F3F3] w-[300px] sticky top-0 p-4'>
 
