@@ -1,3 +1,4 @@
+import React from 'react';
 import Person from '../../assets/images/person-vector.png';
 import dish from '../../assets/images/dish-home.png';
 import { Link } from 'react-router-dom';
